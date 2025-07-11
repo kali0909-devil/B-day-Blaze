@@ -8,10 +8,10 @@
 - ✅ Includes **firework animation** and smooth transitions 🎆
 
 ## 🚀 Live Demo
-👉 [Click here to try AgeSpark](https://your-username.github.io/age-spark/)  
+👉 [Click here to try B-Day Blaze(https://kali0909-devil.github.io/B-day-Blaze/)  
 
 ## 📸 Preview
-![screenshot](preview-image.png)
+![screenshot](Blaze.png)
 
 ## 🛠️ Tech Stack
 - Semantic **HTML5**
